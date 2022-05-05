@@ -14,5 +14,5 @@ libnode_jll = "76d26698-d9ba-5ca1-ae24-4ac9393d02a0"
 
 [compat]
 julia = "1.7"
-libjlnode_jll = "14.17.3"
+libjlnode_jll = "14"
 libnode_jll = "16"
